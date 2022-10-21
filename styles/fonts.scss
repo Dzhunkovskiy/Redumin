@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "First Neue";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("../fonts/TTFirsNeue-Regular.woff2") format("woff2"),
+        url("../fonts/TTFirsNeue-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "First Neue";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local(""), url("../fonts/TTFirsNeue-Bold.woff2") format("woff2"),
+        url("../fonts/TTFirsNeue-Bold.woff") format("woff");
+}

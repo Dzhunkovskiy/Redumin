@@ -1,0 +1,5 @@
+@mixin bgImage($imageJPG, $imageWEBP) {
+    background-image: $imageJPG;
+    background-image: $imageWEBP;
+    background-repeat: no-repeat;
+}
